@@ -1,5 +1,4 @@
-# 6기 14팀 저장소
-## 🖤 _Todo-Todo_ 💖
+# 🖤 _Todo-Todo_ 💖
 
 ![image](https://github.com/Sprint-Part3-14Team/14team-project/assets/162143999/d0c36618-cb55-46b1-afa0-f52f4cac95a6)
 
